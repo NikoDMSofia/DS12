@@ -62,7 +62,10 @@ img {
             align-items: center;
         }
 
-     
+     .exp {
+        margin: 60px;
+        text-align: justify;
+     }
 
 
 
