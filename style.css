@@ -39,11 +39,22 @@ img {
 
   .text {
     font-family: "Oswald", sans-serif; 
-    color: rgba(255, 255, 255, 0.623);
+    color: rgba(255, 255, 255, 0.774);
     padding:  0 30px 50px 30px;
     text-align: justify;
     letter-spacing: .8px;
+    /* font-weight: 100; */
+    h3 {
+      text-decoration: underline;
+      color: rgba(255, 0, 0, 0.555);
+      /* font-weight: lighter; */
+      
+    }
+    .price {
+        font-weight: lighter;
+      }
   }
+  
 
      .monday,.tuesday,.wednesday, .thursday, .friday, .saturday, .sunday {
         display: flex;
