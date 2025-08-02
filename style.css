@@ -156,6 +156,7 @@ img {
         text-align: center;
         font-family: "Goldman", sans-serif;
         margin-bottom: 20px;
+        text-decoration: none;
     }
 
     .about {
